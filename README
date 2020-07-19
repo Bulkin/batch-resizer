@@ -1,0 +1,7 @@
+Simple GUI tool for calling `convert -resize` on a batch of images. Depends on
+PyQt, QML Controls 1 and imagemagick.
+
+For Ubuntu:
+
+    apt install python-pyqt5.qtquick qml-module-qtquick-controls imagemagick
+
